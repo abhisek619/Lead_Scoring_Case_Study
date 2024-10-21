@@ -10,14 +10,14 @@ Logistic Regression will be used for this case Study.
 Logistic Regression Workflow: 
 
 Data Preparation
-Exploratory Data Analysis (EDA)
-Dummy Variable Creation
-Train-Test Split
-Feature Scaling
-Correlation Analysis
-Model Building (using Recursive Feature Elimination - RFE)
-Model Evaluation
-Threshold Tuning
-Precision and Recall Evaluation
-Making Predictions on Test Set
+> Exploratory Data Analysis (EDA)
+> Dummy Variable Creation
+> Train-Test Split
+>Feature Scaling
+> Correlation Analysis
+> Model Building (using Recursive Feature Elimination - RFE)
+> Model Evaluation
+> Threshold Tuning
+> Precision and Recall Evaluation
+> Making Predictions on Test Set
 
