@@ -9,7 +9,7 @@ Logistic Regression will be used for this case Study.
 
 Logistic Regression Workflow: 
 
-Data Preparation
+> Data Preparation
 > Exploratory Data Analysis (EDA)
 > Dummy Variable Creation
 > Train-Test Split
